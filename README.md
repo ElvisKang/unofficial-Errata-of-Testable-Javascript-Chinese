@@ -40,7 +40,7 @@
 >The last bit of niceness would be `to link each key in the config object to its validator function and keep the entire hash in one central location`:
 
  修改方案：
->最后一个可以改进的地方，是构建config对象的每一个属性关联特定validator函数的散列（hash），并将这些散列放到一个对象中，便于统一管理。
+>最后一个可以改进的地方，是建立config对象的每个属性关联各自validator函数的散列（hash），并将这些散列都放到一个对象中，以便统一管理。
 
 
 
