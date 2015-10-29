@@ -139,4 +139,13 @@ function configure(values) {
  备注：
  >网上所有圈复杂度的中文解释都说独立现行，但是并不存在“独立现行”这种词。关于线性独立的路径的数量，我认为就是指一个函数执行路径的总数。详细的计算公式请大家参看wiki。
 
+###P30 第一段最后一句
 
+ 译文：
+ >所以我们所喜欢的语言新特性可能不会大量出现在运行环境中。`不要认为只可以支持一个特定的浏览器，我们是可以支持几乎所有现代浏览器的，方案还是免费使用第三方框架`。
+ 
+ 原文：
+ >so your favorite new language feature may not be present in a significant percentage of run-time environments.`Do not get stuck supporting only one particular browser when you can support almost any modern browser, again for
+free, using a third-party framework`.
+
+ 
